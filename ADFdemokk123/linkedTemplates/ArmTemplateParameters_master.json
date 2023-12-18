@@ -5,11 +5,11 @@
 		"factoryName": {
 			"value": "ADFdemokk123"
 		},
-		"AzureKeyVault1_properties_typeProperties_baseUrl": {
-			"value": "https://KV-demokk.vault.azure.net/"
-		},
 		"AzureBlobStorage2_properties_typeProperties_connectionString_secretName": {
 			"value": "Keyvalut-sec"
+		},
+		"AzureKeyVault1_properties_typeProperties_baseUrl": {
+			"value": "https://KV-demokk.vault.azure.net/"
 		},
 		"containerUri": {
 			"value": ""

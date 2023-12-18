@@ -7,13 +7,13 @@
 			"metadata": "Data Factory name",
 			"defaultValue": "ADFdemokk123"
 		},
-		"AzureKeyVault1_properties_typeProperties_baseUrl": {
-			"type": "string",
-			"defaultValue": "https://KV-demokk.vault.azure.net/"
-		},
 		"AzureBlobStorage2_properties_typeProperties_connectionString_secretName": {
 			"type": "string",
 			"defaultValue": "Keyvalut-sec"
+		},
+		"AzureKeyVault1_properties_typeProperties_baseUrl": {
+			"type": "string",
+			"defaultValue": "https://KV-demokk.vault.azure.net/"
 		},
 		"containerUri": {
 			"type": "string",
